@@ -24,7 +24,7 @@ Opacity Tags provides a tag cloud that you can have more control over, is more b
 
 Opacity Tags is super easy to install.
 
-1. Upload `opacity-tags.php` to the `/wp-content/plugins/` directory of your WordPress installation
+1. Upload the Opacity Tags folder you download to the `/wp-content/plugins/` directory of your WordPress installation
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Head on over to your widgets page, where you now have a new Opacity Tags Tag Cloud widget to use
 
