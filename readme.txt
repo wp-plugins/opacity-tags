@@ -10,9 +10,9 @@ Opacity Tags generates a new type of tag cloud that uses a link's opacity to ind
 
 == Description ==
 
-No more ugly tag clouds! Opacity Tags generates a new type of tag cloud that uses a link's opacity to indicate its popularity. Check out the [demo video](http://vimeo.com/29535196) below:
+No more ugly tag clouds! Opacity Tags generates a new type of tag cloud that uses a link's opacity to indicate its popularity. Check out the [demo video](http://www.youtube.com/watch?v=xxmpYhmMIAQ) below:
 
-<iframe src="http://player.vimeo.com/video/29535196?title=0&amp;byline=0&amp;portrait=0" width="520" height="325" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+http://www.youtube.com/watch?v=xxmpYhmMIAQ
 
 What that means is that the most popular tags are first in the tag list and closer to full opacity. The less popular tags each have less and less opacity, fading into the background of your site.
 
