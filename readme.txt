@@ -1,6 +1,6 @@
 === Opacity Tags ===
-Contributors: GeorgeGecewicz
-Donate link: https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=UZG-9OAZT2UdEEcrT7nO-C9ml4RywBglhj4Rhhmi2fYU9mtOmn9CjkvFwP4&dispatch=5885d80a13c0db1f8e263663d3faee8dd049a0174d7b2337c94a2120c957a268
+Contributors: czief
+Donate link: https://czief.co
 Tags: tags, tag, tag cloud, widget, tag widget, categories, category, sidebar, links, content, opacity
 Requires at least: 2.8
 Tested up to: 3.2.1
